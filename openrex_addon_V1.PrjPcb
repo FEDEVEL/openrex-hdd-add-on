@@ -106,6 +106,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCXAXSLM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for openrex_addon_V1\Design Rule Check - openrex_addon_V1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
